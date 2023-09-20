@@ -229,3 +229,13 @@ final article = ref.watch(articleProviderFamily(id));
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+
+# 参考文献
+
+[Zenn](https://zenn.dev/8rine23/scraps/cbb59f85814ea1)
+
+[Flutter Project Structure: Feature-first or Layer-first?](https://codewithandrea.com/articles/flutter-project-structure/#project-structure-in-relation-to-app-architecture)
+
+[Flutter/Dart における immutable の実践的な扱い方](https://medium.com/flutter-jp/immutable-d23bae5c29f8)
+
+[Why Immutability ?](https://docs-v2.riverpod.dev/docs/concepts/why_immutability?source=post_page-----240d3c56b597--------------------------------)
